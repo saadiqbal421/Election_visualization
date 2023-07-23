@@ -22,7 +22,7 @@ To run the Jupyter notebook and explore the election visualizations, follow thes
 5. Run the notebook cells to generate visualizations and insights.
 
 ## Poster
-Don't forget to check out the project's poster (link_to_poster_image.jpg) that highlights key findings and summarizes the project's outcomes.
+Don't forget to check out the project's poster that highlights key findings and summarizes the project's outcomes.
 
 ![image](https://github.com/saadiqbal421/Election_visualization/assets/81321264/345f26a4-5978-4c81-813d-a4737afb1637)
 

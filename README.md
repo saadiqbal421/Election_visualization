@@ -4,6 +4,7 @@ Welcome to the Pakistan Election Visualization project! This repository contains
 
 ## Project Overview
 Elections are a crucial aspect of democracy, and through this project, we aim to visualize and explore Pakistan's electoral trends over two decades. The Jupyter notebook presents various data visualizations and insightful analysis, providing a deeper understanding of electoral patterns.
+![image](https://github.com/saadiqbal421/Election_visualization/assets/81321264/345f26a4-5978-4c81-813d-a4737afb1637)
 
 ## Dataset
 The dataset used in this project spans election results from 1997 to 2018, offering comprehensive coverage of Pakistan's political landscape during this period.
